@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "113977200012",
+    "project_id": "demonoti-3da39",
+    "storage_bucket": "demonoti-3da39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113977200012:android:a51243ce4426d864b11aa9",
+        "android_client_info": {
+          "package_name": "com.example.demo_noti_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113977200012-0fjr57l0588jrb0kqul73iveg6s9imrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB39vpMnHs6rFgD9tyabua4VJfAin_t0RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113977200012-0fjr57l0588jrb0kqul73iveg6s9imrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
